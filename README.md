@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Daniella Edeh! 👋
 
-<!--
-**daniella-edeh/daniella-edeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Scientist | 💻 Frontend Development Instructor
 
-Here are some ideas to get you started:
+I am a Data Scientist based in Nigeria, dedicated to data-driven problem solving and technical education.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently focused on advanced data analytics and machine learning.
+- 🎓 I teach Frontend Web Development to students in Canada, helping them master the building blocks of the web.
+- 🌱 Expert in Python and SQL, with a strong foundation in frontend technologies.
+- 💬 Ask me about Data Insights or Web Development training.
+
+[LinkedIn](https://www.linkedin.com/in/daniella-edeh)
+[portfolio](https://github.com/daniella-edeh)
